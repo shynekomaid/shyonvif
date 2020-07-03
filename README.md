@@ -21,6 +21,8 @@ import %folder_name%.shyonvif as shyonvif
 mycam = shyonvif.onvif(addr="192.168.1.13", port="80", usr='admin', pwd="12345", debug=True, basicauth=False)
 ```
 4. Submit a request to onvif server on the camera:
+
+
 **Ex:** ```mycam.execute("GET_NETWORK")```
 
 **Additions:**
