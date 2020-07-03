@@ -12,7 +12,7 @@ requests, base64, http.client
 ```
 import lib.shyonvif as shyonvif
 ```
-**Warning!** if you rename dir with lib, import like this:
+**Warning!** if you rename lib dir, import like this:
 ```
 import %folder_name%.shyonvif as shyonvif
 ```
