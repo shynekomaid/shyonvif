@@ -1,5 +1,5 @@
 # shyonvif
-Yet another pyton onvif lib
+Yet another python onvif lib
 
 # Dependencies
 
