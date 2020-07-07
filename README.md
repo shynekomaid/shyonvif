@@ -31,3 +31,7 @@ Change ip:
 ```
 print(mycam.setIP("192.168.1.12"))
 ```
+5. Dont forget close session:
+```
+mycam.close()
+```
